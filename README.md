@@ -1,10 +1,7 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Eva Pilar Esteban Velasco*
 
-## In this Report
-
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
 
 ## Part A. Actuating DC motors
 
@@ -16,11 +13,17 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **a. Which color wires correspond to power, ground and signal?**
 
+Brown = Ground, Red = Power, Orange = Signal.
+
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
+Pin 9.
+
 **b. What aspects of the Servo code control angle or speed?**
+
+Inside the loop(), the two for() loops control the angle, going from 0 to 180 degrees, and they control the speed by setting a delay of 15 ms between each movement.
 
 ## Part C. Integrating input and output
 
