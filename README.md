@@ -35,6 +35,8 @@ Inside the loop(), the two for() loops control the angle, going from 0 to 180 de
 
 **a. Make a video of your proto puppet.**
 
+[Link to Proto Puppet Video](Proto_Puppet_Muted.mp4)
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
