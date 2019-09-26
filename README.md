@@ -5,7 +5,9 @@
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+**Link to a video of your vibration motor**
+
+[Link to Vibration Motor Video](Vibration_Motor_Muted.mp4)
 
 ## Part B. Actuating Servo motors
 
