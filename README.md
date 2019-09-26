@@ -31,6 +31,8 @@ Inside the loop(), the two for() loops control the angle, going from 0 to 180 de
 
 **Include a photo/movie of your raw circuit in action.**
 
+[Link to Raw Circuit Video](Raw_Circuit_Muted.mp4)
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
