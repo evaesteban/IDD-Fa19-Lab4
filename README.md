@@ -27,7 +27,7 @@ Pin 9.
 
 Inside the loop(), the two for() loops control the angle, going from 0 to 180 degrees, and from 180 to 0 degrees, and they control the speed by setting a delay of 15 ms with the line of code 'delay(15);' between each movement.
 
-![](Servo_Code.png)
+![](Servo_Code_Cropped.png)
 
 ## Part C. Integrating input and output
 
