@@ -25,7 +25,7 @@ Pin 9.
 
 **b. What aspects of the Servo code control angle or speed?**
 
-Inside the loop(), the two for() loops control the angle, going from 0 to 180 degrees, and they control the speed by setting a delay of 15 ms with the line of code 'delay(15);' between each movement.
+Inside the loop(), the two for() loops control the angle, going from 0 to 180 degrees, and from 180 to 0 degrees, and they control the speed by setting a delay of 15 ms with the line of code 'delay(15);' between each movement.
 
 ## Part C. Integrating input and output
 
